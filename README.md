@@ -2,7 +2,7 @@
 
 This is my personal portfolio website showcasing my work, education, projects, and publications.
 
-🌐 **Live Website:** [https://your-github-username.github.io/aman-kumar-portfolio](https://your-github-username.github.io/aman-kumar-portfolio)
+🌐 **Live Website:** [https://your-github-username.github.io/aman-kumar-portfolio]([(https://amankardam.github.io/aman-kumar-portfolio/)])
 
 ## 🚀 Features
 - Responsive design for all devices
