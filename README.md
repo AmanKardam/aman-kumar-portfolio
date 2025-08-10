@@ -19,8 +19,11 @@ This is my personal portfolio website showcasing my work, education, projects, a
 
 ## 📂 Structure
 index.html # Main portfolio page
+
 Passport.jpeg # Profile picture
+
 Resume.pdf # Resume file
+
 assets/ # Optional extra resources
 
 less
