@@ -24,11 +24,6 @@ Passport.jpeg # Profile picture
 
 Resume.pdf # Resume file
 
-assets/ # Optional extra resources
-
-less
-Copy
-Edit
 
 ## 📬 Contact
 - **Email:** [kardamrajbir.rs@gmail.com](mailto:kardamrajbir.rs@gmail.com)
